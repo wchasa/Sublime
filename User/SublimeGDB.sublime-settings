@@ -1,0 +1,5 @@
+{
+    "workingdir": "${folder:${file}}",
+   // "commandline": "gdb --interpreter=mi ./${file_base_name}.exe"
+   "commandline": "gdb --interpreter=mi ./my_fm"
+}

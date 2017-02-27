@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/MarkdownEditing-2.2.1/MarkdownEditor-Dark.tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Compare Side-By-Side",
+		"Vintage"
+	]
+}
